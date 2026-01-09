@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://miro.medium.com/v2/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+  <img height="200" src="https://miro.medium.com/v2/1*zVnWJtyGOX_kUIDm6ccCfQ.gif](https://tenor.com/pt-BR/view/coding-gif-18657810" />
 </div>
 
 ###
